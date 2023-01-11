@@ -8,7 +8,7 @@ void main(List<String> args) {
 
   var nuevoListado = listado.where(( x ) => x > 4 );
 
-  print(nuevoListado);
+  print(nuevoListado.toSet().toList());
 }
 
 int sumar( int x, int y){
