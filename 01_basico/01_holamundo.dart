@@ -1,0 +1,10 @@
+
+main(){
+
+  print('Hola mundo');
+
+}
+
+
+
+
